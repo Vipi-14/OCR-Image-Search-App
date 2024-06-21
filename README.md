@@ -2,7 +2,7 @@
 
 OCR-Image-Search-App is a Python application that allows users to perform Optical Character Recognition (OCR) on images within a selected directory and search for specific words within the extracted text. The application displays the results in a graphical user interface (GUI) and provides options to open the images directly and export results to an Excel file.
 
-![OCR-Image-Search-App](image_url)
+![OCR-Image-Search-App](images/Screenshot_1.png)
 
 ## Features
 
